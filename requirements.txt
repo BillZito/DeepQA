@@ -1,0 +1,4 @@
+Django==1.10
+redis
+channels
+asgi_redis
